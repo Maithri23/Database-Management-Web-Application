@@ -1,0 +1,28 @@
+# PHP upload artifacts
+uploaded_img/*
+uploaded_certifications/*
+uploaded_portfolio/*
+
+# Environment and local configuration
+.env
+.env.*
+config.local.php
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+php_errors.log
+
+# Dependency and build artifacts
+vendor/
+composer.lock
